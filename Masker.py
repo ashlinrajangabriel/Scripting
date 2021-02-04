@@ -19,7 +19,7 @@ replacements = [
     ('nanny','bunny'),
     ('nginx','gininbox'),
     ('postgre','rexpostserv'),
-    ('siemens','OrgMaskinPlace'),
+    ('comp','OrgMaskinPlace'),
     ('falcon','dalton'),
     ('ssh','hss'),
     ('tomcat','catinwall'),
