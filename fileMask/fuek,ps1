@@ -1,0 +1,7 @@
+foreach($i in ls -name c:/Users/user/Desktop/ScrewThisDirectory/*) {​​​​​​​​
+    Get-Content c:/Users/user/Desktop/ScrewThisDirectory/$i |
+    Out-File -encoding utf8 -filepath c:/Users/yser/Desktop/DIR2/$i
+}​​​​​​​​
+env:PATHEXT += ";.py"
+python ./Masker.py
+ 
